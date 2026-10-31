@@ -1,0 +1,8 @@
+{
+  "name": "preview-link",
+  "version": "0.1.0",
+  "description": "Pins the latest preview URL (E2B, Cloudflare tunnel, ngrok...) above the prompt",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "repository": "https://github.com/penguoir/claude-code-preview-link"
+}

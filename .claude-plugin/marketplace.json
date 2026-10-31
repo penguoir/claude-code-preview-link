@@ -1,0 +1,2 @@
+{ "name": "ori-local", "owner": { "name": "Ori" },
+  "plugins": [ { "name": "preview-link", "source": "./preview-link", "description": "Pins the latest preview URL (E2B, Cloudflare tunnel, ngrok...) above the prompt" } ] }
